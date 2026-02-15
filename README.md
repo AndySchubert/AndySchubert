@@ -36,25 +36,37 @@ Currently exploring distributed systems, Web3 fundamentals, and internal platfor
 
 ---
 
-## 📌 Featured Project
+## 📁 Portfolio
 
-### **envctl — Internal Developer Platform API (FastAPI)**
-A lightweight backend-only internal platform providing:
-- Project and environment management  
-- Ephemeral environment provisioning  
-- Simulated deployment pipeline  
-- JWT authentication  
-- SQLAlchemy ORM and service layer  
-- Designed for future integration with Kubernetes & Helm  
+### [credit-fraud-ml-system](https://github.com/AndySchubert/credit-fraud-ml-system)
+**End-to-End ML System Design**
+- Real-time fraud detection pipeline using DuckDB and XGBoost.
+- Focused on extreme class imbalance and regulatory explainability (SHAP).
+- Automated CI/CD and monitoring for data/prediction drift.
 
-**Repo:** https://github.com/AndySchubert/internal-platform-api
+### [db-boundary-profiler](https://github.com/AndySchubert/db-boundary-profiler)
+**Systems Performance Investigation**
+- Profiling tool measuring latency and throughput at the OS/Database boundary.
+- Analyzes connection pool contention, context switching, and thread scheduling.
+- Deep dive into Oracle-specific performance bottlenecks.
+
+### [envctl (Internal Platform API)](https://github.com/AndySchubert/internal-platform-api)
+**Platform Engineering & API Design**
+- Backend-only FastAPI service for project/environment lifecycle management.
+- Simulates provisioning and deployment flows for developer experience testing.
+- JWT-based Auth, SQLAlchemy ORM, and Helm-ready.
+
+### [grpc-boundary-lab](https://github.com/AndySchubert/grpc-boundary-lab)
+**Distributed Systems & gRPC Latency Analysis**
+- Quantifies the performance cost of gRPC gateway boundaries.
+- Asynchronous gRPC stubs, tunable thread pools, and percentile latency analysis.
+- Automated load sweeps to identify saturation behaviors.
 
 ---
 
 ## 🔭 Currently Learning
 - Scalable backend architecture  
 - Distributed systems concepts  
-- Web3 fundamentals & Chainlink oracle networks  
 - Best practices in cloud-native platform engineering  
 
 ---
