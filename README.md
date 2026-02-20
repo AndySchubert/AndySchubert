@@ -5,7 +5,7 @@ Zurich, Switzerland
 
 I build reliable backend systems and platform tooling with a focus on automation, containers, cloud infrastructure, and developer experience.
 
-Currently exploring distributed systems, Web3 fundamentals, and internal platform engineering patterns.
+Currently exploring distributed systems and internal platform engineering patterns.
 
 ---
 
